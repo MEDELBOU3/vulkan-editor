@@ -1,0 +1,25 @@
+# Build directories
+build/
+test_build/
+bin/
+obj/
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# CMake junk
+CMakeCache.txt
+CMakeFiles/
+CMakeSettings.json
+CMakeUserPresets.json
+install/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Vulkan/Shader junk
+*.spv
